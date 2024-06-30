@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
         title: const Text(
           'Simple Todo',
         ),
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.deepPurple,
         foregroundColor: Colors.white,
       ),
       body: ListView.builder(
